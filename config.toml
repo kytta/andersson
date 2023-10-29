@@ -1,0 +1,11 @@
+base_url = "https://os.kytta.dev/andersson"
+compile_sass = true
+title = "Andersson theme for Zola"
+description = "A Zola thene inspired by Rasmus Andersson's personal webpage"
+generate_feed = true
+build_search_index = false
+
+[markdown]
+highlight_code = true
+
+[extra]

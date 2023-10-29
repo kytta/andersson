@@ -1,0 +1,15 @@
+name = "Andersson"
+description = "v8 theme of www.kytta.dev. Inspired by Rasmus Andersson's personal webpage"
+license = "ISC"
+homepage = "https://github.com/kytta/andersson"
+min_version = "0.17.0"
+
+[extra]
+menu = [
+    { path = "blog/_index.md", type = "section" },
+]
+
+[author]
+name = "Nikita Karamov"
+homepage = "https://www.kytta.dev/"
+
