@@ -4,6 +4,10 @@ Andersson is a very minimalistic theme for Zola. I've used it on the v8 of my pe
 
 ![Screenshot of the theme applied to www.kytta.dev](./screenshot.png)
 
+> ## WARNING ⚠️
+>
+> This theme is not recommended for public use. It is unfinished and has too many references to my persona. It might be hard to decouple it from the mentions of me. Use at your own risk, I guess :)
+
 ## Install
 
 In the root of your Zola site:
